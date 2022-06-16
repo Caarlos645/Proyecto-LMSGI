@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+      <channel>
+       <title>Mi canal de RSS</title>
+       <link>https://github.com/Caarlos645/Proyecto-LMSGI</link>
+       <description>Noticias de actualidad</description>
+       <item>
+       <title>Ofertas en PadelNuestro</title>
+       <link>https://www.padelnuestro.com/</link>
+       <description>Nuevas ofertas semanales en PadelNuestro</description>
+       </item>
+      </channel>
+</rss>
