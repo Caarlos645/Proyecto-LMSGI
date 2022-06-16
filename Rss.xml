@@ -1,23 +1,12 @@
 <rss version="2.0">
-<channel>
-<title>CANAL NOTICIAS</title>
-<link>ttps://github.com/Caarlos645/Proyecto-LMSGI</link>
-<description></description>
-<language>en-es</language>
-<copyright>©Copyright 2050 by nobody. All rights reversed.</copyright>
-<skipDays>
-<day>Saturday</day>
-<day>Sunday</day>
-</skipDays>
-<image>
-<url>https://josecabello26.github.io/WEB-LENMA/fms.jpg</url>
-<title></title>
-<link>https://josecabello26.github.io/WEB-LENMA/</link>
-</image>
-<item>
-<title>NOTICIAS SOBRE RAP</title>
-<link>https://josecabello26.github.io/WEB-LENMA/PAGINA6.html</link>
-<description>AQUI LES MOSTRAMOS TODAS LAS NOTICIAS SOBRE RAP</description>
-</item>
-</channel>
+      <channel>
+       <title>Mi canal de RSS</title>
+       <link>https://github.com/Caarlos645/Proyecto-LMSGI</link>
+       <description>Noticias de actualidad</description>
+       <item>
+       <title>Ofertas en PadelNuestro</title>
+       <link>https://www.padelnuestro.com/</link>
+       <description>Nuevas ofertas semanales en PadelNuestro</description>
+       </item>
+      </channel>
 </rss>
